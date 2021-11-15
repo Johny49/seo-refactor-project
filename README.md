@@ -8,7 +8,7 @@ Refactor of the Horiseon Social Solution Servicess Inc.
 * [Code](#code)
 * [Contact](#contact)
 * [Technologies](#technologies)
-* [Project Status](#setup)
+* [Project Status](#project-status)
 
 
 ## Description 
