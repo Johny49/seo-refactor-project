@@ -16,7 +16,7 @@ Optimized code for A11y and SEO
 
 
 ## Screenshot
-[Screenshot of Horiseon webpage](./assets/images/readme-screenshot.png)
+![Screenshot of Horiseon webpage](./assets/images/readme-screenshot.png)
 
 
 ## Link
